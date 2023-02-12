@@ -28,5 +28,10 @@
     <artifactId>mysql-connector-j</artifactId>
     <version>8.0.32</version>
 </dependency>
+  	<dependency>
+  		<groupId>com.JDBCSwitchcase</groupId>
+  		<artifactId>JDBCSwitchcase6-2-2023</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
